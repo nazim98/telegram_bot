@@ -1,0 +1,1 @@
+9999999999{"name": "telepot", "version": "12.7", "summary": "Python framework for Telegram Bot API", "requires_dist": ["urllib3>=1.9.1", "aiohttp>=3.0.0"], "requires_python": null, "files": [{"file": "telepot-12.7.tar.gz", "hash": "sha256:ba123e49e72d0bd471543350c5a3aacd5a7ac38aaf7f0abccaf786936b3ba8b0"}], "yanked": false, "_cache_version": "2.0.0"}
